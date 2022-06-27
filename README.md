@@ -69,7 +69,7 @@ Enter current format (.png/.jpg/.jpeg):
 6. For decoding enter the target format:
 
 ```bash
-Enter current format (.png/.jpg/.jpeg):
+Enter target format (.png/.jpg/.jpeg):
 .jpg
 ```
 
