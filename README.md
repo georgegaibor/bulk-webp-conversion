@@ -75,4 +75,4 @@ Enter current format (.png/.jpg/.jpeg):
 
 7. Enjoy!
 
-__Note:__ Currently the script deletes the files after converting them, make sure to back your them up before running it! Also upported formats were not very clear in Google's documentation so I just have listed the ones I am sure the converter supports.
+__Note:__ Currently the script deletes the files after converting them, make sure to back them up before running it! Also supported formats were not very clear in Google's documentation so I just have listed the ones I am sure the converter supports.
